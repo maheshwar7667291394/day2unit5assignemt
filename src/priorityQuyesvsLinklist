@@ -1,0 +1,6 @@
+Priority queue perform any operation on the basis of priority not based on FIFO. and when we call 
+pole method then then operation will performed according to sorted order.
+
+
+link list perform  any operation  on data in bidirectional. suppose you want perform operation on
+any data like FIFo then link list will used  
